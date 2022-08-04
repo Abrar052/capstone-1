@@ -68,7 +68,7 @@ header li a {
 .desktop-nav:hover {
   color: #ec5242;
   transform: scale(1.05);
-  transition: all 0.7s linear;
+  transition: all 0.3s linear;
   border: 2px solid #ec5242;
   border-radius: 5px;
   padding: 10px 10px;
@@ -86,7 +86,7 @@ header li a {
 }
 
 .hamburger:hover {
-  transition: all 0.7s linear;
+  transition: all 0.3s linear;
   transform: scale(1.05);
   border: 2px solid #ec5242;
   padding: 10px 10px;
@@ -235,7 +235,7 @@ hr {
 .card:hover {
   cursor: pointer;
   transform: scale(1.07);
-  transition: all 0.7s linear;
+  transition: all 0.3s linear;
   border: 5px solid #d3d3d3;
   border-radius: 5px;
 }

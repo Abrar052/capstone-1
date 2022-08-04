@@ -1,0 +1,151 @@
+html {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.about-welcom {
+  padding-top: 6rem;
+}
+
+.about-div {
+  position: relative;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.7)), url(../images/end-game-header.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  padding: 4rem 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-div h1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 3rem;
+  line-height: 3rem;
+  color: #ec5242;
+  padding-top: 4rem;
+  margin-top: 0;
+  background-image: url(../images/headerBackground.jpg);
+
+  /* background-clip: text; */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 2rem;
+}
+
+.about-p1 {
+  text-align: center;
+  color: #272a31;
+  width: 70%;
+  border: 10px solid white;
+  border-radius: 10px;
+}
+
+.about-p2 {
+  color: #272a31;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.about-p3 {
+  color: #272a31;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
+
+.about-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-image {
+  width: 50%;
+  height: 40%;
+  border: 2px solid #d3d3d3;
+}
+
+.end {
+  background-color: #d3d3d3;
+  width: 100%;
+}
+
+.past {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 4rem 0;
+}
+
+.past-images {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-bottom: 4rem;
+}
+
+.past-1 {
+  background-image: url(../images/past-1.png);
+  opacity: 0.7;
+  width: 539px;
+  height: 640px;
+  margin-bottom: 2rem;
+}
+
+.past-1-1 {
+  background-color: rgb(236 82 66 / 70%);
+  width: 100%;
+  height: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.past-2 {
+  background-image: url(../images/past-2.png);
+  opacity: 0.7;
+  width: 539px;
+  height: 640px;
+}
+
+.past-2-1 {
+  background-color: rgb(236 82 66 / 70%);
+  width: 100%;
+  height: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.past-1-h {
+  font-size: 3rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  background-color: #272a31;
+  align-items: center;
+}
+
+footer img {
+  width: 200px;
+  height: 120px;
+  padding-left: 1rem;
+}
+
+footer h2 {
+  color: #d3d3d3;
+  padding: 1rem 1rem 0 0;
+}

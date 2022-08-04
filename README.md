@@ -50,22 +50,24 @@ Successful
 
 ## Preview
 Following are the images of desktop version
--![Image](images\readme\welcome-desktop.png)
--![Image](images\readme\main-program-desktop.png)
--![Image](images\readme\speakers-desktop.png)
--![Image](images\readme\partners-desktop.png)
--![Image](images\readme\footer-desktop.png)
+-![Image](images/readme/welcome-desktop.png)
+-![Image](images/readme/main-program-desktop.png)
+-![Image](images/readme/speakers-desktop.png)
+-![Image](images/readme/partners-desktop.png)
+-![Image](images/readme/footer-desktop.png)
 
 Following are the images for the mobile version
--![Image](images\readme\nav-mobile.png)
--![Image](images\readme\welcome-mobile.png)
--![Image](images\readme\main-program-mobile.png)
--![Image](images\readme\speakers-mobile.png)
--![Image](images\readme\Partners-mobile.png)
--![Image](images\readme\footer-mobile.png)
+
+
+-![Image](images/readme/nav-mobile.png)
+-![Image](images/readme/welcome-mobile.png)
+-![Image](images/readme/main-program-mobile.png)
+-![Image](images/readme/speakers-mobile.png)
+-![Image](images/readme/Partners-mobile.png)
+-![Image](images/readme/footer-mobile.png)
 
 ## Video Demonstration
--[![video](images\readme\video.png)](https://www.loom.com/share/1b833f5883774d339dc0c67ea37d1f0a)
+-[![video](images/readme/video.png)](https://www.loom.com/share/1b833f5883774d339dc0c67ea37d1f0a)
 
 
 ## Authors
